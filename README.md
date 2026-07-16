@@ -255,4 +255,3 @@ Amazon CloudWatch
 
 
 
-This README is modeled after the example you shared but tailored specifically to your **Cloud-Based Digital Library System** project. It is suitable for a GitHub repository or project submission.
