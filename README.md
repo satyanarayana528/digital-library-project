@@ -1,13 +1,13 @@
-📚 Cloud-Based Digital Library System
+### 📚 Cloud-Based Digital Library System
  
-📖 About the Project
+## 📖 About the Project
 
 The **Cloud-Based Digital Library System** is a web application developed using **Flask** and **Amazon Web Services (AWS)** to provide secure storage, management, and access to digital books. The system enables users to upload, browse, search, download, and manage PDF books through a simple web interface.
 
 The project demonstrates cloud deployment using AWS services such as **Amazon EC2, Amazon VPC, Amazon S3, Amazon DynamoDB, and Amazon CloudWatch**. It provides a scalable and reliable solution for digital library management while reducing the dependency on traditional library systems.
 
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
  ✅ Develop a cloud-based digital library application
  ✅ Provide secure storage for PDF books
@@ -16,9 +16,9 @@ The project demonstrates cloud deployment using AWS services such as **Amazon EC
  ✅ Deploy the application on Amazon EC2
  ✅ Monitor the application using Amazon CloudWatch
 
-✨ Key Features
+## ✨ Key Features
 
-📚 Book Management
+## 📚 Book Management
 
 * Upload PDF Books
 * Browse Available Books
@@ -27,7 +27,7 @@ The project demonstrates cloud deployment using AWS services such as **Amazon EC
 * Delete Books
 
 
-☁️ Cloud Features
+## ☁️ Cloud Features
 
 * Amazon EC2 Hosting
 * Amazon S3 File Storage
@@ -38,7 +38,7 @@ The project demonstrates cloud deployment using AWS services such as **Amazon EC
 
 
 
-🔍 Search Features
+## 🔍 Search Features
 
 * Search by Title
 * Search by Author
@@ -46,7 +46,7 @@ The project demonstrates cloud deployment using AWS services such as **Amazon EC
 * Fast Metadata Retrieval
 
 
-🏗 Project Directory Structure
+## 🏗 Project Directory Structure
 
 ```text
 Cloud-Based-Digital-Library-System
@@ -71,15 +71,15 @@ Cloud-Based-Digital-Library-System
 
 
 
-⚙️ Installation Guide
+## ⚙️ Installation Guide
 
-Step 1 — Launch Amazon EC2
+## Step 1 — Launch Amazon EC2
 
 Create an Ubuntu EC2 instance.
 
 
 
-Step 2 — Install Required Software
+## Step 2 — Install Required Software
 
 ```bash
 sudo apt update
